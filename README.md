@@ -30,8 +30,8 @@ Each player has a **permanent Neural Chip** that determines their abilities.
 
 Each chip contains:
 - Passive ability
-- Active ability
-- Alternate ability
+- Active ability (Swap-hand Key (reffered to as F in this article))
+- Alternate ability (Shift+F)
 
 Chips also have **tiers (1–3)** that unlock stronger abilities over time.
 
@@ -198,9 +198,9 @@ Excluded blocks include:
 
 ### Logic Core
 ```
-D D
+D   D
   S
-D D
+D   D
 ```
 
 4 Diamonds + Netherite Scrap
@@ -224,9 +224,9 @@ D D
 ### Neural Scrambler
 
 ```
-R R
+R   R
   E
-R R
+R   R
 ```
 
 Redstone + Ender Eye
