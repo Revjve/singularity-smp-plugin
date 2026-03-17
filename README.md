@@ -48,6 +48,69 @@ Each chip contains:
 
 Chips also have **tiers (1–3)** that unlock stronger abilities over time.
 
+🔵 Ghost
+Cooldown: 20s active / 70s alternate | Battery Cost: 0 / 12%
+
+Passive — Crouch while still to turn invisible.
+Active — Phase Shift — Enter spectator mode for 3 seconds, letting you pass through blocks
+Alternate — Void Mirage — Blink forward 16 blocks, gain Invisibility + Speed III + Resistance briefly.
+
+
+🟠 Overclocker
+Cooldown: 30s active / 90s alternate | Battery Cost: 5% / 14%
+
+Passive — Permanent Haste II and Speed I at all times.
+Active — Turbo Boost — Gain Speed IV + Strength II for 10 seconds.
+Alternate — Ion Lance — Dash forward, then detonate — dealing 5 hearts of damage to nearby players set them on fire.
+
+
+🔴 Firewall
+Cooldown: 40s active / 100s alternate | Battery Cost: 0 / 14%
+
+Passive — Permanent 15% damage reduction.
+Active — Kernel Guard — Spawn a tracking stained-glass shield wall in front of you for 10 seconds with Resistance I.
+Alternate — Prism Cage — Surround yourself in a full stained-glass dome for 10 seconds with Resistance II + Absorption II.
+
+
+🟣 Glitch
+Cooldown: 25s active / 90s alternate | Battery Cost: 0 / 12%
+
+Passive — 10% chance incoming attacks deal zero damage (glitches out).
+Active — Lag Spike — Freeze nearby entities within 6 blocks briefly.
+Alternate — Reality Fracture — Lock nearby players in place for 4 seconds (Blindness, Slowness, Weakness), then shatter them — teleporting them randomly and dealing 3 hearts of damage.
+
+
+🟢 Virus
+Cooldown: 30s active / 90s alternate | Battery Cost: 0 / 14%
+
+Passive — Attacks have a chance to apply Wither I to the target.
+Active — Signal Hijack — Force your target to drop their held item.
+Alternate — Blood Bloom — AOE burst within 7 blocks applying Wither II + Poison II + Weakness to all nearby players and dealing 4 hearts of damage.
+
+
+🩵 Uplink
+Cooldown: 35s active / 90s alternate | Battery Cost: 10% / 15%
+
+Passive — Nearby Enemies are marked with particles; your compass points toward the lowest battery player.
+Active — Remote Reboot — Instantly heal 4 hearts.
+Alternate — Network Sweep — For 8 seconds, only you can see all players within 60 blocks highlighted with particles + beams. Grants Regeneration II, Speed II, and Night Vision.
+
+
+🟤 Miner
+Cooldown: 60s active / 80s alternate | Battery Cost: 0 / 12%
+
+Passive — 20% chance to double ore drops.
+Active — Seismic Bore — Instantly mine a 3×3×14 tunnel in the direction you're facing. Grants Haste III + Resistance I briefly.
+Alternate — Mantle Breaker — Drill straight down 20 blocks vertically, deal 4 hearts to nearby players and launch them upward, then grant yourself Haste IV + Resistance II.
+
+
+🔵 Feedback
+Cooldown: 45s active / 90s alternate | Battery Cost: 0 / 14%
+
+Passive — Thorns-style damage reflected back to anyone who hits you.
+Active — Shockwave — Deal 3 hearts of true damage to all players within 8 blocks with a knockback burst.
+Alternate — Magnetic Surge — Pull all nearby entities within 10 blocks toward you, levitate them briefly, then slam them outward for 5 hearts of damage.
+
 ---
 
 ## Data Storage
