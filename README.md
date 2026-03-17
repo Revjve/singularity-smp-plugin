@@ -6,7 +6,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-1.21+-blue.svg)](https://papermc.io/)
 [![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://adoptium.net/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
