@@ -216,21 +216,30 @@ D   D
 D   D
 ```
 
-4 Diamonds + Netherite Scrap
+- 4 Diamonds (D) 
+- Netherite Scrap (S)
 
 ---
 
 ### Overclocker (Tier 2 Upgrade)
-
-- 4 Logic Cores
-- 1 Beacon
+```
+L   L
+  B
+L   L
+```
+- 4 Logic Cores (L)
+- 1 Beacon (B)
 
 ---
 
 ### Singularity Core (Tier 3 Upgrade)
-
-- 4 Netherite Ingots
-- 1 Beacon
+```
+N   N
+  B
+N   N
+```
+- 4 Netherite Ingots (N)
+- 1 Beacon (B)
 
 ---
 
@@ -242,7 +251,8 @@ R   R
 R   R
 ```
 
-Redstone + Ender Eye
+- 4 Redstone (R)
+- 1 Ender Eye (E)
 
 ---
 
