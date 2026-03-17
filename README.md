@@ -1,6 +1,20 @@
-# Project Singularity
+# Singularity
 
-**Project Singularity** is a cyber-simulation survival system designed for **Paper 1.21.8** running on **Java 21**.
+<div align="center">
+
+**Custom SMP Plugin for Paper 1.21+**
+
+[![Paper](https://img.shields.io/badge/Paper-1.21+-blue.svg)](https://papermc.io/)
+[![Java](https://img.shields.io/badge/Java-17+-orange.svg)](https://adoptium.net/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+</div>
+
+---
+
+**Overview** 
+
+this plugin is a cyber-simulation survival system designed for **Paper 1.21.8** running on **Java 21**.
 
 The Minecraft world becomes **The Grid**, a digital simulation where players are known as **Units**.  
 Each Unit operates using a **Battery (System Uptime)** and a **Neural Chip** that determines their abilities and role within the system.
